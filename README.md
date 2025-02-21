@@ -1,8 +1,10 @@
 # Friday Night Funkin' 
 
 Friday Night Funkin' is a rhythm game. Built using HaxeFlixel for Ludum Dare 47.
+
 And now, for the first time, it makes NOISE!!!!!
-This was achieved using FunkelFlixel2 V9 Super Edition's Siybd Yodate Sound Update!!!!
+
+This was achieved using FunkelFlixel2 V9 Super Edition's Siybd Yodate Sound Update, and SuperTimedEvents!!!!
 
 This game was made with love to Newgrounds and its community. Extra love to Tom Fulp.
 
